@@ -1,1 +1,3 @@
-# department_performance
+# Performance Dashboard
+
+![image](img/main.png)
